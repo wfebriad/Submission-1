@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wisnu Febriadi</string>
+    <string name="cari">Cari</string>
+    <string name="ketik_judul_film">Ketik Judul Film</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="detail">Detail</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="captain_america">Captain America</string>
+</resources>
